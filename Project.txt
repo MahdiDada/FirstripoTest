@@ -1,5 +1,4 @@
 Remote repository demo project
 Initial version
 This line was added remotly
-and this line for watch how work pull.
-Hi iam learning git hoooo.
+I want watch confilict.
