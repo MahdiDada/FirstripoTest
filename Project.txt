@@ -2,5 +2,6 @@ Remote repository demo project
 Initial version
 This line was added remotly
 I want watch confilict.
-we have kokosabzy for lunch at the home.
-iam very saggg!
+now im in the cryptography class but not underastanding!
+and now i have very question in this lesons.
+
